@@ -1,0 +1,11 @@
+{
+  "name": "node-http2-serve",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^2.14.1",
+    "fastify-auto-push": "^0.4.0",
+    "fastify-static": "^2.7.0"
+  }
+}
