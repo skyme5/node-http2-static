@@ -6,6 +6,6 @@
   "dependencies": {
     "fastify": "^2.15.1",
     "fastify-auto-push": "^0.4.0",
-    "fastify-static": "^4.2.4"
+    "fastify-static": "^4.4.1"
   }
 }
